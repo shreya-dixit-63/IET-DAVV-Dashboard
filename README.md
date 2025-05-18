@@ -6,7 +6,7 @@ This project is a clone of the IET DAVV dashboard website, designed with a clean
 
 - **🧭 Responsive Navigation Bar** – Provides easy access to key sections like Academics, Admissions, and Examination.  
 - **📢 Notice Board** – Displays recent announcements in a structured format.  
-- **🔗 Quick Links Section** – Offers direct access to important resources such as Student Portal, Faculty Login, and Library Resources.  
+- **🔗 Important Links Section** – Offers direct access to important resources such as Student Portal, Faculty Login, and Library Resources.  
 - **🏛️ IET DAVV Branding** – Includes the institute logo for an authentic look.  
 - **🎨 Modern UI Design** – Uses shades of blue and white for an engaging and professional experience.  
 
